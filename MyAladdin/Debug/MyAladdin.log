@@ -1,0 +1,42 @@
+﻿  Aladdin.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(26): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(114): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(115): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(119): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(120): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(190): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(192): warning C4244: '=': conversion from 'LONG' to 'FLOAT', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(198): warning C4244: 'argument': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(250): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(251): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(253): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(254): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(255): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(280): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(281): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(283): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(284): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(285): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(296): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(318): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(320): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(268): warning C4101: 'isAttack': unreferenced local variable
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(383): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(427): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(428): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(460): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(482): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(511): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(572): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(573): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(968): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(969): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(975): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(976): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(1055): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(1074): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\thien\downloads\hk7\game\new folder\aladdin_directx_nhom7(1)\aladdin_directx_nhom7\myaladdin\aladdin.cpp(1083): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  MyAladdin.vcxproj -> C:\Users\thien\Downloads\HK7\Game\New folder\Aladdin_Directx_Nhom7(1)\Aladdin_Directx_Nhom7\Debug\Aladdin_Directx.exe
+  MyAladdin.vcxproj -> C:\Users\thien\Downloads\HK7\Game\New folder\Aladdin_Directx_Nhom7(1)\Aladdin_Directx_Nhom7\Debug\Aladdin_Directx.pdb (Full PDB)
