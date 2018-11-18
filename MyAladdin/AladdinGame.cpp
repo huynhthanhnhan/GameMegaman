@@ -31,7 +31,7 @@ void AladdinGame::LoadResource()
 	//this->AddSence(sence);
 	//SenceManager::Instance()->ReplaceSence(sence);
 
-	SelectScene* sence = new SelectScene();
+	PlaySence* sence = new PlaySence();
 	this->AddSence(sence);
 	SenceManager::Instance()->ReplaceSence(sence);
 

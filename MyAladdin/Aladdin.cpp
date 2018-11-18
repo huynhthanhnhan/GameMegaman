@@ -110,7 +110,7 @@ void Aladdin::update(float deltaTime)
 	if (!result.flag)
 	{
 		//Update new location
-		this->_isGround = false;
+		//this->_isGround = false;
 		this->_x += this->_vx;
 		this->_y += this->_vy;
 	}
@@ -376,7 +376,7 @@ void Aladdin::caculateSpeed(float deltaTime)
 
 	float vx = 0, vy = 0, ax = 0, ay = 0;
 	float angle = 0;
-	bool canMoveX = true, canMoveY = true;
+	bool canMoveX = true, canMoveY = false;
 	Global::EDirection directX, directY;
 	directX = _direct;
 	directY = Global::Up;
@@ -433,8 +433,8 @@ void Aladdin::caculateSpeed(float deltaTime)
 
 		ax = 0;
 
-		if (this->_isGround)
-			canMoveY = false;
+		//if (this->_isGround)
+		//	canMoveY = false;
 		break;
 	}
 	case Global::ThrowFall:
@@ -462,7 +462,7 @@ void Aladdin::caculateSpeed(float deltaTime)
 			canMoveX = true;
 		else
 			canMoveX = false;
-		if (this->_isGround)
+		//if (this->_isGround)
 			canMoveY = false;
 		break;
 	}
@@ -582,7 +582,7 @@ void Aladdin::Stand()
 	if (_state == Global::Stand)
 		return;
 
-	if (_state == Global::Run && this->_countRun >= 10 && this->_isGround)
+	if (_state == Global::Run && this->_countRun >= 10/* && this->_isGround*/)
 	{
 		this->StopRun();
 		this->_countRun = 0;
@@ -894,7 +894,7 @@ void Aladdin::JumpStand()
 		return;
 	this->_aladdinAction->Refresh();
 
-	this->_isGround = false;
+	//this->_isGround = false;
 	this->_timeAction = 0;
 	this->_state = Global::JumpStand;
 }
@@ -905,7 +905,7 @@ void Aladdin::JumpRun()
 		return;
 	this->_aladdinAction->Refresh();
 
-	this->_isGround = false;
+	//this->_isGround = false;
 	this->_timeAction = 0;
 	this->_state = Global::JumpRun;
 }

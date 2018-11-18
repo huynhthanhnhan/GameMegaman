@@ -19,7 +19,7 @@
 #pragma endregion
 
 //Quảng đường đi được trong một bước chân của Aladdin
-#define	DISTANCE	27
+#define	DISTANCE	15
 #define ALADDIN_WIDTH 80
 #define ALADDIN_HEIGHT_NORMAL 120
 #define ALADDIN_HEIGHT_SITDOWN 60

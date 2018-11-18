@@ -18,7 +18,7 @@
 #define MAP_HEIGHT			1720 //(688* 2.5 trong đó 688 là chiều cao thực sự của map 2.5 là vector scale)
 
 //Gia tốc trọng trường trong môi trường game
-#define ACCELERATION		15000
+#define ACCELERATION		0 //15000
 
 class Global
 {
